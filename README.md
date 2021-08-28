@@ -1,10 +1,10 @@
 # SQLAlchemy Homework - Surfs Up!
 ## Step 1 - Climate Analysis and Exploration
-![climate analysis notebook](https://github.com/ZiboZhao0804/sqlalchemy-challenge/blob/main/climate_starter.ipynb)
+[climate analysis notebook](https://github.com/ZiboZhao0804/sqlalchemy-challenge/blob/main/climate_starter.ipynb)
 ### Station Analysis
 ### Precipitation Analysis
 ## Step 2 - Climate App
-![climate app](https://github.com/ZiboZhao0804/sqlalchemy-challenge/blob/main/app.py)
+[climate app](https://github.com/ZiboZhao0804/sqlalchemy-challenge/blob/main/app.py)
 ### Routes
 
 * `/`
